@@ -1,0 +1,208 @@
+[
+  {
+    "id": "Adding-and-Editing-a--Case",
+    "name": "Adding and Editing a  Case",
+    "description": "",
+    "line": 1,
+    "keyword": "Feature",
+    "uri": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\8_Workbench.feature",
+    "elements": [
+      {
+        "name": "",
+        "keyword": "Background",
+        "description": "",
+        "type": "background",
+        "line": 3,
+        "steps": [
+          {
+            "name": "user navigated to itox lab portal",
+            "line": 4,
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "name": "Adding Workbench",
+        "id": "Adding-and-Editing-a--Case;adding-workbench",
+        "line": 38,
+        "keyword": "Scenario",
+        "description": "",
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@dev",
+            "line": 6
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Before ",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1526591
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\support\\beforeHook.js:3"
+            }
+          },
+          {
+            "name": "user navigated to itox lab portal",
+            "line": 4,
+            "keyword": "Given ",
+            "result": {
+              "status": "passed",
+              "duration": 12207656402
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddnEditClient_stepDef.js:32"
+            }
+          },
+          {
+            "name": "user enter Username field as \"jmaster\" and Password as \"Admin@7890\"",
+            "line": 8,
+            "keyword": "When ",
+            "result": {
+              "status": "passed",
+              "duration": 737436008
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddnEditClient_stepDef.js:44"
+            }
+          },
+          {
+            "name": "click on login button in login page",
+            "line": 9,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 551479244
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddnEditClient_stepDef.js:55"
+            }
+          },
+          {
+            "name": "click on \"New Case\" button",
+            "line": 10,
+            "keyword": "Then ",
+            "result": {
+              "status": "passed",
+              "duration": 3836291172
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\CreateNEdit_Profile_stepDef.js:32"
+            }
+          },
+          {
+            "name": "verify the page navigation to \"Case / Create\" page",
+            "line": 11,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 1515348834
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddnEditClient_stepDef.js:63"
+            }
+          },
+          {
+            "name": "select the lab as \"CCL\" from dropdown",
+            "line": 12,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 5730141753
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddnEditClient_stepDef.js:71"
+            }
+          },
+          {
+            "name": "search for the patient \"Baumna Kavon\" in select patient",
+            "line": 13,
+            "keyword": "Then ",
+            "result": {
+              "status": "passed",
+              "duration": 1245405775
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\WorkBench.js:56"
+            }
+          },
+          {
+            "name": "enter date collected as \"08/16/2018\" preferred lab as \"Clinical Connect Laboratory\" practice as \"CCLJ\" ICD codes as \"M47.812\" and prescribed drug as \"Flexeril\" in Case Info",
+            "line": 14,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 6766728087
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddNEditCase_StepDef.js:18"
+            }
+          },
+          {
+            "name": "check whether Location and Ordering Provider is auto filled",
+            "line": 15,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 232376269
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\AddNEditCase_StepDef.js:29"
+            }
+          },
+          {
+            "name": "verify First Name Last Name and DOB fields are auto filled in patient info section",
+            "line": 16,
+            "keyword": "Then ",
+            "result": {
+              "status": "passed",
+              "duration": 317167995
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\WorkBench.js:63"
+            }
+          },
+          {
+            "name": "enter gender as \"Male\"",
+            "line": 17,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 563766521
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\WorkBench.js:82"
+            }
+          },
+          {
+            "name": "click on add insurance button",
+            "line": 18,
+            "keyword": "Then ",
+            "result": {
+              "status": "passed",
+              "duration": 11270414108
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\step_definitions\\WorkBench.js:90"
+            }
+          },
+          {
+            "keyword": "After ",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2708538
+            },
+            "match": {
+              "location": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\support\\afterHook.js:2"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/features/step_definitions/AddnEditClient_stepDef.js" line="56" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a903dba-523d-42ca-90da-683409d5491a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="8810875">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/3_AddNEditCase.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="120" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/pages/CaseEditPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/pages/common/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1411">
+              <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/AddNEditCase_StepDef.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/WorkBench.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#570#2309#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/8_Workbench.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/pages/CommonPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/AddnEditClient_stepDef.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/pages/PatientListPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/pages/AddPatientPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>click on &quot;</find>
+      <find>Select compound</find>
+      <find>No</find>
+      <find>prescri</find>
+      <find>NoSearch</find>
+      <find>navigate</find>
+      <find>navig</find>
+      <find>scr</find>
+      <find>prescr</find>
+      <find>busin</find>
+      <find>scenario</find>
+      <find>add pa</find>
+      <find>order</find>
+      <find>lisa</find>
+      <find>And verify Case Number is displayed in Case Summary</find>
+      <find>webElement</find>
+      <find>expect</find>
+      <find>expect(actualText).to.have.string(expectedText);</find>
+      <find>admin</find>
+      <find>Admin</find>
+      <find>verify Case Number is displayed</find>
+      <find>jones</find>
+      <find>@dev</find>
+      <find>dev</find>
+      <find>pati</find>
+      <find>$ctrl.patientInfo.patientFirstName</find>
+      <find>INFO</find>
+      <find>gen</find>
+      <find>patient</find>
+      <find>cl</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/features/pages/ClientListPage.js" />
+        <option value="$PROJECT_DIR$/features/pages/LoginPage.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/features/pages/ClientCreatePage.js" />
+        <option value="$PROJECT_DIR$/features/pages/common/UserCreatePae.js" />
+        <option value="$PROJECT_DIR$/features/pages/LocationCreatePage.js" />
+        <option value="$PROJECT_DIR$/features/pages/PasswordResetPage.js" />
+        <option value="$PROJECT_DIR$/features/pages/common/select-wrapper.js" />
+        <option value="$PROJECT_DIR$/support/afterHook.js" />
+        <option value="$PROJECT_DIR$/features/LoginTest.feature" />
+        <option value="$PROJECT_DIR$/features/pages/common/elementLocator.js" />
+        <option value="$PROJECT_DIR$/features/pages/CompoundTest.js" />
+        <option value="$PROJECT_DIR$/features/pages/ValidityTestPage.js" />
+        <option value="$PROJECT_DIR$/features/pages/LabPage.js" />
+        <option value="$PROJECT_DIR$/features/step_definitions/Login_stepDef.js" />
+        <option value="$PROJECT_DIR$/features/AddCase.js" />
+        <option value="$PROJECT_DIR$/features/1_LoginTest.feature" />
+        <option value="$PROJECT_DIR$/features/pages/OrdersListPage.js" />
+        <option value="$PROJECT_DIR$/features/step_definitions/AddCase_StepDef.js" />
+        <option value="$PROJECT_DIR$/features/3_AddCase.feature" />
+        <option value="$PROJECT_DIR$/features/2_CreateProfile.feature" />
+        <option value="$PROJECT_DIR$/features/CreateLab.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/CreateProfile.js" />
+        <option value="$PROJECT_DIR$/features/pages/ProfilePage.js" />
+        <option value="$PROJECT_DIR$/features/step_definitions/User_AddNEdit_stepdef.js" />
+        <option value="$PROJECT_DIR$/features/pages/UserCreatePage.js" />
+        <option value="$PROJECT_DIR$/features/Compound_AddNEdit_StepDef.js" />
+        <option value="$PROJECT_DIR$/features/pages/CompoundCreatePage.js" />
+        <option value="$PROJECT_DIR$/features/step_definitions/Compound_AddNEdit_StepDef.js" />
+        <option value="$PROJECT_DIR$/features/pages/DrugPage.js" />
+        <option value="$PROJECT_DIR$/features/pages/CompoundTestPage.js" />
+        <option value="$PROJECT_DIR$/tmp/conf.js" />
+        <option value="$PROJECT_DIR$/features/pages/CommonPage.js" />
+        <option value="$PROJECT_DIR$/features/step_definitions/CreateNEdit_Profile_stepDef.js" />
+        <option value="$PROJECT_DIR$/features/pages/common/utils.js" />
+        <option value="$PROJECT_DIR$/features/pages/LabOrdersPage.js" />
+        <option value="$PROJECT_DIR$/features/step_definitions/AddNEditCase_StepDef.js" />
+        <option value="$PROJECT_DIR$/features/4_AddNAccept_Order.feature" />
+        <option value="$PROJECT_DIR$/features/5_User_AddNEdit.feature" />
+        <option value="$PROJECT_DIR$/features/6_Compound_AddNEdit.feature" />
+        <option value="$PROJECT_DIR$/features/pages/PhysicianCreatePage.js" />
+        <option value="$PROJECT_DIR$/features/1_AddnEditClient.feature" />
+        <option value="$PROJECT_DIR$/features/2_CreateNEdit_Profile.feature" />
+        <option value="$PROJECT_DIR$/features/7_Drugs_AddNEdit.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/AddnEditClient_stepDef.js" />
+        <option value="$PROJECT_DIR$/features/pages/PatientListPage.js" />
+        <option value="$PROJECT_DIR$/features/3_AddNEditCase.feature" />
+        <option value="$PROJECT_DIR$/features/pages/CaseEditPage.js" />
+        <option value="$PROJECT_DIR$/features/pages/AddPatientPage.js" />
+        <option value="$PROJECT_DIR$/features/8_Workbench.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/WorkBench.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1383" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Toxicology_Protractor_Cucumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toxicology_Protractor_Cucumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Toxicology_Protractor_Cucumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Toxicology_Protractor_Cucumber" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535033931404" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Protractor_Workspace\Toxicology_Protractor_Cucumber\drivers" />
+      <recent name="C:\Protractor_Workspace\Toxicology_Protractor_Cucumber\node_modules\protractor\node_modules\webdriver-manager" />
+      <recent name="C:\Protractor_Workspace\Toxicology_Protractor_Cucumber\tmp" />
+      <recent name="C:\Protractor_Workspace\Toxicology_Protractor_Cucumber\features\pages" />
+      <recent name="C:\Automation_workspace\Toxicology_Protractor\TestBase_pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Protractor_Workspace\Toxicology_Protractor_Cucumber\features\step_definitions" />
+      <recent name="C:\Protractor_Workspace\Toxicology_Protractor_Cucumber\features\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unknown.test1924864874">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Protractor_Test" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/Config/conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Toxicology_Protractor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conf.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="conf.js" working-dir="$PROJECT_DIR$/Config" />
+    <configuration name="test" type="NodeJSConfigurationType" factoryName="Node.js" application-parameters="C:\Automation_workspace\Toxicology_Protractor\Config\conf.js" path-to-js-file="node_modules/protractor/built/cli.js" working-dir="$PROJECT_DIR$" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="7_Drugs_AddNEdit.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/7_Drugs_AddNEdit.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+    </configuration>
+    <list>
+      <item itemvalue="Protractor.Protractor_Test" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a903dba-523d-42ca-90da-683409d5491a" name="Default" comment="" />
+      <created>1517251058136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517251058136</updated>
+      <workItem from="1517251063307" duration="2120000" />
+      <workItem from="1517428634876" duration="640000" />
+      <workItem from="1517429389068" duration="173000" />
+      <workItem from="1517939654702" duration="27178000" />
+      <workItem from="1518057732030" duration="699000" />
+      <workItem from="1518058702235" duration="106000" />
+      <workItem from="1518058833456" duration="15000" />
+      <workItem from="1518058914568" duration="653000" />
+      <workItem from="1518059925623" duration="774000" />
+      <workItem from="1518060970963" duration="474000" />
+      <workItem from="1518061511253" duration="18131000" />
+      <workItem from="1518187783836" duration="41866000" />
+      <workItem from="1518397768708" duration="241000" />
+      <workItem from="1518446073611" duration="15473000" />
+      <workItem from="1518468127257" duration="4614000" />
+      <workItem from="1518473436280" duration="25317000" />
+      <workItem from="1518565871249" duration="3157000" />
+      <workItem from="1518571451235" duration="2704000" />
+      <workItem from="1518574224394" duration="1375000" />
+      <workItem from="1518621869223" duration="8135000" />
+      <workItem from="1518633361113" duration="4445000" />
+      <workItem from="1518640688837" duration="8625000" />
+      <workItem from="1518707362423" duration="35493000" />
+      <workItem from="1518926971149" duration="1767000" />
+      <workItem from="1518961610555" duration="15293000" />
+      <workItem from="1519059362533" duration="8294000" />
+      <workItem from="1519137508223" duration="14906000" />
+      <workItem from="1519177804835" duration="33198000" />
+      <workItem from="1519321918283" duration="35033000" />
+      <workItem from="1519661616678" duration="7616000" />
+      <workItem from="1519752081229" duration="9849000" />
+      <workItem from="1519829986398" duration="19019000" />
+      <workItem from="1519870270739" duration="1877000" />
+      <workItem from="1519915949488" duration="12641000" />
+      <workItem from="1520004619846" duration="828000" />
+      <workItem from="1520262655817" duration="23147000" />
+      <workItem from="1520368345915" duration="8454000" />
+      <workItem from="1520451501646" duration="6450000" />
+      <workItem from="1520465226530" duration="20171000" />
+      <workItem from="1520607540438" duration="17449000" />
+      <workItem from="1520652786905" duration="3714000" />
+      <workItem from="1520701434214" duration="1776000" />
+      <workItem from="1520703550613" duration="1480000" />
+      <workItem from="1520813897844" duration="5215000" />
+      <workItem from="1520880558737" duration="3658000" />
+      <workItem from="1521122535794" duration="7875000" />
+      <workItem from="1522696716862" duration="22000" />
+      <workItem from="1522696802751" duration="1924000" />
+      <workItem from="1522706559228" duration="3526000" />
+      <workItem from="1523027528608" duration="6161000" />
+      <workItem from="1523278762721" duration="1226000" />
+      <workItem from="1523309092628" duration="2671000" />
+      <workItem from="1523467242598" duration="3753000" />
+      <workItem from="1523546813922" duration="28658000" />
+      <workItem from="1523992736735" duration="5311000" />
+      <workItem from="1525178759119" duration="630000" />
+      <workItem from="1525656191015" duration="819000" />
+      <workItem from="1525695413643" duration="5333000" />
+      <workItem from="1526225616889" duration="15535000" />
+      <workItem from="1526651698054" duration="13423000" />
+      <workItem from="1526859786169" duration="13786000" />
+      <workItem from="1527021225188" duration="1904000" />
+      <workItem from="1527542925357" duration="1407000" />
+      <workItem from="1527705351040" duration="1243000" />
+      <workItem from="1527730092787" duration="2422000" />
+      <workItem from="1527869612730" duration="5637000" />
+      <workItem from="1528123769068" duration="13937000" />
+      <workItem from="1528296861695" duration="18391000" />
+      <workItem from="1528727402418" duration="8932000" />
+      <workItem from="1528902195779" duration="21153000" />
+      <workItem from="1528985409244" duration="10538000" />
+      <workItem from="1529521164863" duration="990000" />
+      <workItem from="1530286307469" duration="678000" />
+      <workItem from="1530542025472" duration="714000" />
+      <workItem from="1531243766964" duration="649000" />
+      <workItem from="1532634770778" duration="628000" />
+      <workItem from="1532709649293" duration="1031000" />
+      <workItem from="1533241170352" duration="3820000" />
+      <workItem from="1533249633307" duration="6787000" />
+      <workItem from="1533316855815" duration="630000" />
+      <workItem from="1533333554757" duration="2202000" />
+      <workItem from="1533673201764" duration="706000" />
+      <workItem from="1533749806206" duration="5070000" />
+      <workItem from="1534168976681" duration="2149000" />
+      <workItem from="1534277800042" duration="1609000" />
+      <workItem from="1534344730557" duration="1199000" />
+      <workItem from="1534357927163" duration="4784000" />
+      <workItem from="1534428173041" duration="14761000" />
+      <workItem from="1535033154223" duration="1400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Protractor_Test - 2018.01.31 at 14h 59m 40s.xml">
+      <configuration name="Protractor_Test" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="728372000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18380567" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18582678" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32913387" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6755906" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/features/AddCase.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/test/data/js/tinymce.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="8" column="946" selection-start-line="8" selection-start-column="946" selection-end-line="8" selection-end-column="946" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/CreateLab.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/7_Drugs_CreateNEdit.feature" />
+    <entry file="file://$PROJECT_DIR$/support/Hook.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logger/log.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/capabilities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="352" column="6" selection-start-line="352" selection-start-column="6" selection-end-line="352" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/PasswordResetPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/expect/umd/expect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1291" column="4" selection-start-line="1291" selection-start-column="4" selection-end-line="1291" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/testing/assert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="328" column="2" selection-start-line="328" selection-start-column="2" selection-end-line="328" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/expectedConditions.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="287" column="4" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/q/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="97" column="8" selection-start-line="97" selection-start-column="8" selection-end-line="97" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/common/select-wrapper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/common/elementLocator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/CompoundTestPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/DrugPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/LabPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/LocationCreatePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/LoginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/ValidityTestPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/UserCreatePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/BasePage.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/User_AddNEdit_stepdef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/selenium-webdriver/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="4630" column="2" selection-start-line="4630" selection-start-column="2" selection-end-line="4630" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/ClientCreatePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/ProfilePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/webdriver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="2275" column="2" selection-start-line="2275" selection-start-column="2" selection-end-line="2275" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/OrdersListPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/Compound_AddNEdit_StepDef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/CompoundCreatePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/6_Compound_AddNEdit.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/5_User_AddNEdit.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/4_AddNAccept_Order.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/PhysicianCreatePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/2_CreateNEdit_Profile.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="71" selection-start-line="110" selection-start-column="71" selection-end-line="110" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/1_AddnEditClient.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/7_Drugs_AddNEdit.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/CreateNEdit_Profile_stepDef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/LabOrdersPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/3_AddNEditCase.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="120" selection-start-line="14" selection-start-column="120" selection-end-line="14" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/CaseEditPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/common/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/AddNEditCase_StepDef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/WorkBench.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#570#2309#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/PatientListPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/AddPatientPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/AddnEditClient_stepDef.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/8_Workbench.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/pages/CommonPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>@types/express</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Toxicology_Protractor_Cucumber</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Login-to-itox-application",
+    "name": "Login to itox application",
+    "description": "",
+    "line": 1,
+    "keyword": "Feature",
+    "uri": "C:\\Protractor_Workspace\\Toxicology_Protractor_Cucumber\\features\\LoginTest.feature",
+    "elements": [
+      {
+        "name": "",
+        "keyword": "Background",
+        "description": "",
+        "type": "background",
+        "line": 3,
+        "steps": [
+          {
+            "name": "user navigated to itox lab portal",
+            "line": 4,
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "name": "verify adding client in itox",
+        "id": "Login-to-itox-application;verify-adding-client-in-itox",
+        "line": 7,
+        "keyword": "Scenario",
+        "description": "",
+        "type": "scenario",
+        "tags": [
+          {
+            "name": "@dev",
+            "line": 6
+          }
+        ],
+        "steps": [
+          {
+            "keyword": "Before ",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 939399
+            },
+            "match": {}
+          },
+          {
+            "name": "user navigated to itox lab portal",
+            "line": 4,
+            "keyword": "Given ",
+            "result": {
+              "status": "passed",
+              "duration": 21499364191
+            },
+            "match": {}
+          },
+          {
+            "name": "user enter Username field as \"jmaster\" and Password as \"Admin@1234\"",
+            "line": 8,
+            "keyword": "When ",
+            "result": {
+              "status": "passed",
+              "duration": 668086479
+            },
+            "match": {}
+          },
+          {
+            "name": "click on login button in login page",
+            "line": 9,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 812120243
+            },
+            "match": {}
+          },
+          {
+            "name": "verify the page navigation to \"Patient List\" page",
+            "line": 10,
+            "keyword": "Then ",
+            "result": {
+              "status": "passed",
+              "duration": 2322119249
+            },
+            "match": {}
+          },
+          {
+            "name": "select the lab from dropdown in Patient List page",
+            "line": 11,
+            "keyword": "And ",
+            "result": {
+              "status": "passed",
+              "duration": 10310674681
+            },
+            "match": {}
+          },
+          {
+            "keyword": "After ",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 951823
+            },
+            "match": {}
+          }
+        ]
+      }
+    ]
+  }
+]
